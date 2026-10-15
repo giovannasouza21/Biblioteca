@@ -1,0 +1,51 @@
+
+body {
+    background-color: rgba(255, 0, 170, 0.151);
+    font-family: sans-serif;
+    padding: 20px;
+
+
+  margin: 0;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center; 
+  align-items: center;    
+  background-color: #fde2f3;
+}
+
+
+
+form {
+    background-color: white;
+    padding: 90px;
+    width: 250px;
+    border-radius: 10px;
+}
+
+
+label {
+    display: block;
+    margin-top: 20px;
+}
+
+
+input {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+
+button {
+    margin-top: 15px;
+    width: 100%;
+    padding: 16px;
+    background-color: rgb(219, 58, 162);
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+h1{
+    color: rgb(87, 40, 71);
+}
